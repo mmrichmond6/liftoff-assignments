@@ -23,5 +23,4 @@ https://trello.com/b/BiCyAcmE/board-title-tbd-group-jessica
 
 Include a link to your project on GitHub.
 https://github.com/STL-WomenPlus-Mar22-LiftOff/group-Jessica.git
-https://github.com/mmrichmond6/group-Jessica.git
 

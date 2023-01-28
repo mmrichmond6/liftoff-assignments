@@ -16,7 +16,7 @@ https://www.linkedin.com/in/michele-richmond-34b6a4246/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-https://drive.google.com/file/d/126sHYVbT5m8xtwDSQ-XWvomHLfpB8TCp/view?usp=share_link
+https://drive.google.com/file/d/1ltgS5vCqNDRhzZBML-ayd9RS2RwH5iqf/view?usp=sharing
 
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
